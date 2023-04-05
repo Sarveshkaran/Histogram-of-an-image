@@ -27,8 +27,8 @@ Using matplotlib.pyplot plot the histogram.
 
 ## Program:
 ```python
-# Developed By: Kiran J
-# Register Number: 212221240022
+# Developed By: SARVESH KARAN V K 
+# Register Number: 212221230089
 
 # Write your code to find the histogram of gray scale image and color image channels.
 
